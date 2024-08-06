@@ -9,3 +9,5 @@ cfi_fit <- function(x){
     print("bad fit")
   }
 }
+
+test
