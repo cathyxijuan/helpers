@@ -2,9 +2,7 @@
 % Please edit documentation in R/rmsea_fit.R
 \name{rmsea_fit}
 \alias{rmsea_fit}
-\title{RMSEA FIT
-This function allows you to check the model fit through RMSEA.
-This function allows you to express your love of cats.}
+\title{RMSEA FIT}
 \usage{
 rmsea_fit(x)
 }
@@ -12,9 +10,7 @@ rmsea_fit(x)
 \item{x}{a numeric value indicating the RMSEA value}
 }
 \description{
-RMSEA FIT
 This function allows you to check the model fit through RMSEA.
-This function allows you to express your love of cats.
 }
 \examples{
 rmsea_fit(0.04)

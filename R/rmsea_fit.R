@@ -1,6 +1,6 @@
 #' RMSEA FIT
+#'
 #' This function allows you to check the model fit through RMSEA.
-#' This function allows you to express your love of cats.
 #' @param x a numeric value indicating the RMSEA value
 #' @keywords rmsea
 #' @export
