@@ -11,3 +11,4 @@ cfi_fit <- function(x){
 }
 
 test
+test
