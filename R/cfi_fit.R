@@ -1,7 +1,8 @@
 
-#' Title
+#' CFI FIT
 #'
-#' @param x cfi value
+#' This function allows you to check the model fit through RMSEA.
+#' @param x: a numeric value indicating the CFI value
 #'
 #' @return a string describing the cfi value
 #' @export
