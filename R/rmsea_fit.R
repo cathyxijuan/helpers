@@ -7,6 +7,7 @@
 #' @examples
 #' rmsea_fit(0.04)
 rmsea_fit <- function(x){
+  if (x <.10){
   if (x < 0.08){
     if (x < 0.05){
       print("very good fit")
@@ -14,6 +15,15 @@ rmsea_fit <- function(x){
       print("reasonable fit")
     }
   } else {
+    print("mediocre fit")
+  }
+  }
+  else {
     print("bad fit")
   }
+
 }
+
+
+
+
