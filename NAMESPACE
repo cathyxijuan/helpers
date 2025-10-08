@@ -2,3 +2,4 @@
 
 export(cfi_fit)
 export(rmsea_fit)
+export(simulate_regression)
